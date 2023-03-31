@@ -1,6 +1,6 @@
 Name:		texlive-tikz-ext
 Version:	64920
-Release:	1
+Release:	2
 Summary:	A collection of libraries for PGF/TikZ
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tikz-ext
