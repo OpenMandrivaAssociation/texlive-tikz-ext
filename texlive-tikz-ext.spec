@@ -3,7 +3,7 @@ Version:	66737
 Release:	1
 Summary:	A collection of libraries for PGF/TikZ
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tikz-ext
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tikz-ext
 License:	fdl lppl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tikz-ext.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tikz-ext.doc.r%{version}.tar.xz
